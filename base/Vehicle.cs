@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Session_Four___Inheritance
+namespace Session_Four___Inheritance.@base
 {
     using System;
 

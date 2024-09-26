@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Session_Four___Inheritance.@base;
 
-namespace Session_Four___Inheritance
+namespace Session_Four___Inheritance.@base
 {
     public class FleetOfVehicles
     {
