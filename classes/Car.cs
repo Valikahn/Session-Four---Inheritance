@@ -9,7 +9,7 @@ namespace Session_Four___Inheritance.classes
     public class Car : @base.Vehicle
     {
         public int NumberOfDoors { get; set; }
-        public double FuelEfficiency { get; set; } // in km per liter
+        public double FuelEfficiency { get; set; }
 
         public Car(string make, string model, int year, double fuelLevel, int numberOfDoors, double fuelEfficiency)
             : base(make, model, year, fuelLevel)

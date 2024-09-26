@@ -18,7 +18,7 @@ namespace Session_Four___Inheritance.classes
 
         protected override double FuelConsumptionRate()
         {
-            return CurrentSpeed / 20.0; // Motorcycles are typically fuel efficient
+            return CurrentSpeed / 20.0;
         }
     }
 
