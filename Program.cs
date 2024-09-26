@@ -1,4 +1,5 @@
-﻿using Session_Four___Inheritance.classes;
+﻿using Session_Four___Inheritance.@base;
+using Session_Four___Inheritance.classes;
 using System;
 using System.Collections.Generic;
 

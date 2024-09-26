@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Session_Four___Inheritance.classes
 {
-    public class Motorcycle : Vehicle
+    public class Motorcycle : @base.Vehicle
     {
         public bool HasSidecar { get; set; }
 

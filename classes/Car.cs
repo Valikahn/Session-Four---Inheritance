@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Session_Four___Inheritance.classes
 {
-    public class Car : Vehicle
+    public class Car : @base.Vehicle
     {
         public int NumberOfDoors { get; set; }
         public double FuelEfficiency { get; set; } // in km per liter

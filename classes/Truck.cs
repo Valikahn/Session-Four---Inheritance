@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Session_Four___Inheritance.classes
 {
-    public class Truck : Vehicle
+    public class Truck : @base.Vehicle
     {
         public double CargoCapacity { get; set; } // in tons
         public double TowingCapacity { get; set; } // in tons
