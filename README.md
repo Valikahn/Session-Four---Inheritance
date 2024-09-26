@@ -16,38 +16,15 @@ In addition, you should implement a feature that allows the user to simulate dri
 Your program should be written in C# and should demonstrate your understanding of inheritance and object-oriented programming principles.
 
 
-| Truck           | Motorcycle        | Car            |
-|-------------------------------|----------------|--------------|
-| Apache                        | 2.4.58         |              |
-| PHP                           | 8.3.6          |              |
-| ionCube                       | 13.3.1         |              |
-| OpenSSL                       | 3.0.13         |              |
-| MySQL                         | 8.4            |              |
-| phpMyAdmin                    | 5.2.1          |              |
-| Webmin                        | 2.202          |              |
-| FTP server (vsftpd)           | 3.0.5          |              |
-
-
-
-Truck
-	Motorcycle
-	Car
-	Vehicle
-	Fleet
-Cargo Capacity
-Towing Capacity
-	Sidecar
-	Number of Doors
-Fuel Efficiency
-	Make
-Model
-Year
-Odometer
-Fuel Level
-Current Speed
-Accelerate
-Brake
-Turn
-Drive	
-
-
+| Truck           | Motorcycle | Car             | Vehicle       | Fleet |
+|-----------------|------------|-----------------|---------------|-------|
+| Cargo Capacity  | Sidecar    | Number of Doors | Make          |       |
+| Towing Capacity |            | Fuel Efficiency | Model         |       |
+|                 |            |                 | Year          |       |
+|                 |            |                 | Odometer      |       |
+|                 |            |                 | Fuel Level    |       |
+|                 |            |                 | Current Speed |       |
+|                 |            |                 | Accelerate    |       |
+|                 |            |                 | Brake         |       |
+|                 |            |                 | Turn          |       |
+|                 |            |                 | Drive         |       |
